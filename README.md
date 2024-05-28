@@ -2,7 +2,7 @@
 
 Project Description:
 
-Are you struggling to retain valuable talent in your organization? Employee turnover can be a significant challenge for businesses. However, with the power of data science and machine learning, we can predict and mitigate employee attrition effectively.
+Employee turnover can be a significant challenge for businesses. However, with the power of data science and machine learning, we can predict and mitigate employee attrition effectively.
 
 Project Overview:
 
@@ -20,6 +20,4 @@ What I Have Accomplished:
 
     Visualization: To make the project visually appealing and insightful, I created stunning data visualizations, including a 3D scatter plot and a pie chart with data labels.
 
-I am available to discuss the project in more detail, answer any questions you may have, and explore opportunities for deployment in your organization. Together, we can leverage data-driven insights to create a more engaged and productive workforce.
-
-If you're ready to take control of employee turnover and unlock the potential of your organization, let's connect and discuss how this project can benefit you.
+I am available to discuss the project in more detail, answer any questions you may have, and explore opportunities for deployment in your organization.
